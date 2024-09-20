@@ -10,7 +10,7 @@ setup(
     license="MIT",
     author="Joao Victor",
     author_email="jvdeitos@hotmail.com",
-    url="https://github.com/joaovictordds/doau",
+    url="https://github.com/joaovictordds/extrator_audio",
     packages=find_packages(),
     classifiers=[  # Certifique-se de que 'classifiers' está presente apenas uma vez
         "Programming Language :: Python :: 3",
