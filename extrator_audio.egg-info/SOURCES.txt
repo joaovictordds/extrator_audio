@@ -1,0 +1,12 @@
+LICENCE
+README.md
+setup.py
+extrator_audio/__init__.py
+extrator_audio/doau.py
+extrator_audio.egg-info/PKG-INFO
+extrator_audio.egg-info/SOURCES.txt
+extrator_audio.egg-info/dependency_links.txt
+extrator_audio.egg-info/requires.txt
+extrator_audio.egg-info/top_level.txt
+tests/__init__.py
+tests/test.py

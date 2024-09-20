@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: extrator_audio
+Version: 0.1.0
+Summary: Um pacote simples para extrair áudio de vídeos do YouTube
+Home-page: https://github.com/joaovictordds/doau
+Author: Joao Victor
+Author-email: jvdeitos@hotmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: yt-dlp
+
+# Extrator de Áudio
+
+Este é um pacote simples para extrair o áudio de vídeos do YouTube com base na URL do vídeo.
+
+## Funcionalidades
+
+- Faz o download de vídeos do YouTube
+- Extrai o áudio e salva em formato MP3
+
+## Instalação
+
+```bash
+pip install extrator_audio
+`````````
+
+## Licença 
+
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
