@@ -10,7 +10,12 @@ Este é um pacote simples para extrair o áudio de vídeos do YouTube com base n
 ## Instalação
 
 ```bash
-pip install extrator_audio
+
+provisória funcionando
+pip install yt-dlp --upgrade
+pip install -i https://test.pypi.org/simple/ extrator-audio 
+
+pip install extrator_audio - em breve
 `````````
 
 ## Licença 
